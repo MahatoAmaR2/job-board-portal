@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 function Hero() {
   return (
-    <section className="pt-32 pb-20 bg-linear-to-br from-blue-50 via-white to-purple-50">
+    <section className="pt-32 md:pb-30 pb-10 bg-linear-to-br from-blue-50 via-white to-purple-50">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <motion.h1
           initial={{ opacity: 0, y: 40 }}
