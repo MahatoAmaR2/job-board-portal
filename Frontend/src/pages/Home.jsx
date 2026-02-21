@@ -1,5 +1,6 @@
 import BrowseCategories from "../components/BrowseCategories";
 import Hero from "../components/Hero";
+import HowItWorks from "../components/HowItWorks";
 import TrustedCompanies from "../components/TrustedCompanies";
 
 function Home() {
@@ -8,6 +9,7 @@ function Home() {
       <Hero />
       <TrustedCompanies />
       <BrowseCategories />
+      <HowItWorks/>
     </>
   );
 }
