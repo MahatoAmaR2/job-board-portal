@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "logo": "https://logo.clearbit.com/google.com",
+    "location": "Bangalore",
+    "category": "IT",
+    "experience": "Fresher",
+    "type": "Full-Time",
+    "salary": "6-10 LPA",
+    "postedDate": "Feb 18, 2026",
+    "description": "We are looking for a passionate Frontend Developer to build modern web applications using React.",
+    "skills": ["React", "JavaScript", "Tailwind CSS", "Git"],
+    "responsibilities": [
+      "Develop responsive UI components",
+      "Collaborate with backend developers",
+      "Write clean maintainable code",
+      "Optimize application performance"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "location": "Mumbai",
+    "category": "IT",
+    "experience": "Mid-Level",
+    "type": "Full-Time",
+    "salary": "12-18 LPA",
+    "postedDate": "Feb 16, 2026",
+    "description": "Build scalable backend APIs and microservices using Node.js.",
+    "skills": ["Node.js", "MongoDB", "Express", "REST API"],
+    "responsibilities": [
+      "Design scalable backend systems",
+      "Integrate third-party APIs",
+      "Maintain database performance",
+      "Ensure security best practices"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "company": "Adobe",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "location": "Delhi",
+    "category": "Design",
+    "experience": "Mid-Level",
+    "type": "Remote",
+    "salary": "8-12 LPA",
+    "postedDate": "Feb 14, 2026",
+    "description": "Design engaging and user-friendly interfaces for web and mobile apps.",
+    "skills": ["Figma", "Adobe XD", "User Research", "Prototyping"],
+    "responsibilities": [
+      "Create wireframes and prototypes",
+      "Conduct usability testing",
+      "Collaborate with product teams",
+      "Improve user experience"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Executive",
+    "company": "Flipkart",
+    "logo": "https://logo.clearbit.com/flipkart.com",
+    "location": "Kolkata",
+    "category": "Marketing",
+    "experience": "Fresher",
+    "type": "Full-Time",
+    "salary": "4-6 LPA",
+    "postedDate": "Feb 12, 2026",
+    "description": "Manage SEO campaigns and social media growth strategies.",
+    "skills": ["SEO", "Google Ads", "Analytics", "Content Marketing"],
+    "responsibilities": [
+      "Run paid marketing campaigns",
+      "Monitor campaign performance",
+      "Improve organic reach",
+      "Generate marketing reports"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "Microsoft",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "location": "Hyderabad",
+    "category": "IT",
+    "experience": "Senior",
+    "type": "Full-Time",
+    "salary": "18-25 LPA",
+    "postedDate": "Feb 10, 2026",
+    "description": "Manage CI/CD pipelines and cloud infrastructure systems.",
+    "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+    "responsibilities": [
+      "Maintain cloud infrastructure",
+      "Automate deployment processes",
+      "Monitor system performance",
+      "Improve scalability"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Product Manager",
+    "company": "Meta",
+    "logo": "https://logo.clearbit.com/meta.com",
+    "location": "Bangalore",
+    "category": "Marketing",
+    "experience": "Senior",
+    "type": "Full-Time",
+    "salary": "20-30 LPA",
+    "postedDate": "Feb 08, 2026",
+    "description": "Lead cross-functional teams to build impactful digital products.",
+    "skills": ["Product Strategy", "Agile", "Leadership", "Analytics"],
+    "responsibilities": [
+      "Define product roadmap",
+      "Coordinate with engineering teams",
+      "Track KPIs",
+      "Improve product-market fit"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer",
+    "company": "Uber",
+    "logo": "https://logo.clearbit.com/uber.com",
+    "location": "Mumbai",
+    "category": "IT",
+    "experience": "Mid-Level",
+    "type": "Remote",
+    "salary": "10-15 LPA",
+    "postedDate": "Feb 06, 2026",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "skills": ["Flutter", "Dart", "Firebase", "REST API"],
+    "responsibilities": [
+      "Develop mobile app features",
+      "Fix bugs and improve performance",
+      "Collaborate with backend teams",
+      "Deploy apps to Play Store"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Content Writer",
+    "company": "HubSpot",
+    "logo": "https://logo.clearbit.com/hubspot.com",
+    "location": "Remote",
+    "category": "Marketing",
+    "experience": "Fresher",
+    "type": "Remote",
+    "salary": "3-5 LPA",
+    "postedDate": "Feb 04, 2026",
+    "description": "Create engaging blog posts and website content.",
+    "skills": ["Writing", "SEO", "Research", "Content Strategy"],
+    "responsibilities": [
+      "Write blog content",
+      "Optimize SEO keywords",
+      "Research industry topics",
+      "Collaborate with marketing team"
+    ]
+  }
+]
