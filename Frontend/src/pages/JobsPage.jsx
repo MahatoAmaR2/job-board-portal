@@ -36,7 +36,7 @@ function JobsPage() {
   const currentJobs = filteredJobs.slice(startIndex, startIndex + jobsPerPage);
 
   return (
-    <div className="max-w-7xl mx-auto px-6 py-24">
+    <div className="max-w-7xl mx-auto px-6 py-8">
       {/* Mobile Filter Button */}
       <div className="md:hidden mb-6">
         <button
@@ -71,7 +71,7 @@ function JobsPage() {
           </div>
 
           {totalPages > 1 && (
-            <div className="flex justify-center items-center mt-10 gap-2">
+            <div className="flex justify-center items-center mt-4 gap-2">
               <button
                 disabled={currentPage === 1}
                 onClick={() => setCurrentPage((prev) => prev - 1)}
