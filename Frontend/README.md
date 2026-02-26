@@ -1,16 +1,51 @@
-# React + Vite
+# 🚀 HireHub - Modern Job Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HireHub is a modern and responsive job listing platform that connects job seekers with top companies.  
+It allows users to search, filter, and apply for jobs easily while companies can post and manage job listings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+🔗 [View Live Project](https://hireehub.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 👤 User Side
+- View all job listings as cards
+- Advanced sidebar filtering 
+- Search jobs by title
+- Filter by:
+  - Location
+  - Category
+  - Experience Level
+- View detailed job information in modal
+- Pagination support
+- Responsive design (Mobile + Desktop)
+
+### 🏢 Companies Page
+- Browse companies
+- Search companies
+- View open job count
+- Company logos display
+
+### ℹ About Page
+- Company mission & vision
+- Animated statistics
+- Framer Motion animations
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛ React.js
+- 🎨 Tailwind CSS
+- 🎬 Framer Motion
+- 🌐 React Router DOM
+- 🎯 Lucide React Icons
+- 🚀 Vite
+- ☁ Netlify (Deployment)
+
+
